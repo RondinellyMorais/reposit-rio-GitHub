@@ -6,3 +6,5 @@ Primeira modificação de teste do github.
 Teste de verificação.
 
 Alteração feita diretamente no github.
+
+Última verificação de teste.
